@@ -18,5 +18,5 @@ Welcome to the To-Do List web application repository! This project provides a si
 
 ## Getting Started
 
-Explore the code in this repository to understand how the To-Do List functionality is implemented. The HTML structure, CSS styling, and JavaScript logic are organized for readability and modularity. Feel free to customize the styles or extend the functionality based on your needs.
+Explore the code in this repository to understand how the To-Do List functionality is implemented. The HTML structure, CSS styling, and JavaScript logic are organized for readability and modularity.
 
